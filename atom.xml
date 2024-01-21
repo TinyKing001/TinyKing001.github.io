@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://TinyKing001.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-01-21T03:48:47.255Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://TinyKing001.github.io"/>
+    <link rel="self" href="https://TinyKing001.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://TinyKing001.github.io/images/avatar.png</logo>
+    <icon>https://TinyKing001.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[nh ]]></title>
+        <id>https://TinyKing001.github.io/post/nh/</id>
+        <link href="https://TinyKing001.github.io/post/nh/">
+        </link>
+        <updated>2024-01-21T01:01:38.000Z</updated>
+        <content type="html"><![CDATA[<p>海岛心hey<br>
+前端开发者 &amp; 微 SaaS 实践者 • Gridea 创始人</p>
+<p>Say Hi<br>
+我是海岛心hey，对设计、产品充满热情的软件开发者。我喜欢设计、产品和技术，并企图在软件开发中找到完美的平衡。</p>
+<p>思考箱<br>
+23 / 09 / 09<br>
+→ 我们应该把模型看成是柔软的、生物的。</p>
+<p>→ 当你使用这些模型进行设计时，你需要为你的特定用例找到松软与结构化之间的黄金分割点。</p>
+<p>→ 将模型视为特定任务的微小推理引擎。不要试图制造一些万能的文本输入框，声称它能做所有的事情。因为它做不到。如果你假装它可以，只会让人们失望。</p>
+<p>from: Squish Meets Structure: Designing with Language Models</p>
+<p>业余项目<br>
+2021-Now<br>
+Gridea<br>
+建造你的数字花园，让写作成为最佳谈话方式。<br>
+2017-2021<br>
+Gridea 开源客户端<br>
+一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。<br>
+最新帖子<br>
+01 月 09 日<br>
+以积极姿态应对复杂任务：挺身而出的力量<br>
+01 月 03 日<br>
+借助习惯动作提高专注力——我的“早咖啡”时间<br>
+12 月 23 日<br>
+周报 #007： PWA 变得越来越好了<br>
+12 月 06 日<br>
+跟 Apple Notes 学习导航缓存设计<br>
+11 月 02 日<br>
+提升代码可读性的重要性<br>
+05 月 12 日<br>
+P · D · F 早咖啡 006：缓慢的设计<br>
+04 月 28 日<br>
+P · D · F 早咖啡 005：写作催化思考，阅读催化写作<br>
+04 月 26 日<br>
+GPT 和 Copilot 如何改变数据分析工作<br>
+04 月 23 日<br>
+P · D · F 早咖啡 004<br>
+04 月 18 日<br>
+🌱 我的电子书阅读清单：记录我阅读过的书籍</p>
+<p>保持联系<br>
+Twitter<br>
+EryouHao<br>
+GitHub<br>
+EryouHao<br>
+Email<br>
+eryouhao@gmail.com<br>
+Powered by G</p>
+]]></content>
+    </entry>
+</feed>
